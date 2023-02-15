@@ -26,6 +26,22 @@ Foi pensando uma faculdade fictícia, a UNIZON - Universidade Horizonte, que em 
 - Editar Aluno / Professor
 - Remover Aluno / Professor
 - Autenticação de Login
+- Pesquisa no Banco de Dados
+
+## Paleta de cores 
+
+| Cor               | Hexadecimal                                                      |
+| ----------------- | ---------------------------------------------------------------- |
+| Laranja           | ![#e05522](https://via.placeholder.com/10/e05522?text=+) #e05522 |
+| Laranja 2         | ![#ed8631](https://via.placeholder.com/10/ed8631?text=+) #ed8631 |
+| Laranja 3         | ![#f8bd62](https://via.placeholder.com/10/f8bd62?text=+) #f8bd62 |
+| Amarelo           | ![#ffd148](https://via.placeholder.com/10/ffd148?text=+) #ffd148 |
+| Cinza Claro       | ![#e7eaeb](https://via.placeholder.com/10/e7eaeb?text=+) #e7eaeb |
+| Cinza Escuro      | ![#c6c6c6](https://via.placeholder.com/10/c6c6c6?text=+) #c6c6c6 |
+| Marrom Claro      | ![#44240e](https://via.placeholder.com/10/44240e?text=+) #44240e |
+| Marrom Escuro     | ![#29180c](https://via.placeholder.com/10/29180c?text=+) #29180c |
+
+## Tela Inicial
 
 ## Modelo Entidade - Relacionamento
 ![image](https://user-images.githubusercontent.com/89847080/218807320-4d614ed7-221b-4ae4-9f9f-34d3090d560b.png)
