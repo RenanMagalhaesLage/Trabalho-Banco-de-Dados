@@ -26,7 +26,10 @@ Foi pensando uma faculdade fictícia, a UNIZON - Universidade Horizonte, que em 
 - Editar Aluno / Professor
 - Remover Aluno / Professor
 - Autenticação de Login
-- Pesquisa no Banco de Dados
+- Listagem de Registros
+
+## Créditos
+O trabalho foi inspirado nos vídeos do [Gustavo Neitzke](https://www.github.com/Gutoneitzke)
 
 ## Paleta de cores 
 
@@ -41,7 +44,20 @@ Foi pensando uma faculdade fictícia, a UNIZON - Universidade Horizonte, que em 
 | Marrom Claro      | ![#44240e](https://via.placeholder.com/10/44240e?text=+) #44240e |
 | Marrom Escuro     | ![#29180c](https://via.placeholder.com/10/29180c?text=+) #29180c |
 
-## Tela Inicial
+## Index
+![Captura de Tela (1021)](https://user-images.githubusercontent.com/89847080/219134243-5ebdfd91-3a3a-4405-a431-62e560e38c1f.png)
+
+## Login
+![Captura de Tela (1022)](https://user-images.githubusercontent.com/89847080/219134250-c6947673-469d-499e-a11f-ae87ecc94431.png)
+
+## Página Inicial
+![Captura de Tela (1026)](https://user-images.githubusercontent.com/89847080/219134284-8170136d-f80f-4020-a1a6-03527c263364.png)
+
+## Formulário
+![Captura de Tela (1027)](https://user-images.githubusercontent.com/89847080/219134292-50c9e020-99dd-4b4c-bcab-d8bcdc27c831.png)
+
+## Listagem de Registros
+![Captura de Tela (1028)](https://user-images.githubusercontent.com/89847080/219134299-8a5fb079-6201-4374-8939-c075ce0ea1b8.png)
 
 ## Modelo Entidade - Relacionamento
 ![image](https://user-images.githubusercontent.com/89847080/218807320-4d614ed7-221b-4ae4-9f9f-34d3090d560b.png)
