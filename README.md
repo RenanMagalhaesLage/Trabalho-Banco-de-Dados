@@ -9,7 +9,7 @@ Trabalho realizado na disciplina Banco de Dados
 Criar uma aplicação WEB integrada com Banco de Dados
 
 ## Execução
-Foi pensando uma faculdade fictícia, a UNIZON - Universidade Horizonte, que em seu banco de dados possue as seguintes tabelas:
+Foi pensando em uma faculdade fictícia, a UNIZON - Universidade Horizonte, que em seu banco de dados possue as seguintes tabelas:
 
 01. Aluno
 02. Professor
