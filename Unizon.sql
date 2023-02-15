@@ -7,6 +7,17 @@ DROP TABLE IF EXISTS curso;
 DROP TABLE IF EXISTS professor;
 DROP TABLE IF EXISTS departamento;
 
+CREATE TABLE adm (
+	id INT NOT NULL AUTO_INCREMENT,
+	nome VARCHAR(100) NOT NULL,
+	email VARCHAR(100) NOT NULL,
+	senha VARCHAR(100) NOT NULL,
+	PRIMARY KEY(id)
+)ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+INSERT INTO adm (nome, email, senha) VALUES 
+	('administrador', 'adm@gmail.com','1234');
+
 CREATE TABLE departamento (
     codDep INT NOT NULL AUTO_INCREMENT,
     nomeDep VARCHAR(100) NOT NULL, 
