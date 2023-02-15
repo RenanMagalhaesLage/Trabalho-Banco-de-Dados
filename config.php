@@ -1,7 +1,7 @@
 <?php
     $dbHost = 'Localhost';
     $dbUsername = 'root';
-    $dbPassword = 'redesocial50#';
+    $dbPassword = '';
     $dbName = 'unizon';
 
     $conexao = new mysqli($dbHost,$dbUsername,$dbPassword,$dbName);
