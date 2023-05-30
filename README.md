@@ -22,11 +22,11 @@ Foi pensando em uma faculdade fictícia, a UNIZON - Universidade Horizonte, que 
 09. ADM 
 
 ## Funcionalidades
-- Inserir Aluno / Professor
-- Editar Aluno / Professor
-- Remover Aluno / Professor
-- Autenticação de Login
-- Listagem de Registros
+- [x] Inserir Aluno / Professor
+- [x] Editar Aluno / Professor
+- [x] Remover Aluno / Professor
+- [x] Autenticação de Login
+- [x] Listagem de Registros
 
 ## Créditos
 O trabalho foi inspirado nos vídeos do [Gustavo Neitzke](https://www.github.com/Gutoneitzke)
